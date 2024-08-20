@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "7d0c3d0c6e87df37",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1c91a8eb2966d49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4d237400562d1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XP-6/High consept.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a0f50ebac406856",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a1ad0701376f386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "669f638270aaf1d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "710b42619129786a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "206279bd41426080",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "right": {
+    "id": "a57d8849a98f7da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e243d97def1731b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c04da5744b860017",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "XP-6/High consept.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12396376c86cc3cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "XP-6/High consept.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f1f3b1b315b1861",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74485931c773c448",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "XP-6/High consept.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "669f638270aaf1d0",
+  "lastOpenFiles": [
+    "XP6",
+    "XP-6/GDD/GDD.md",
+    "XP-6/GDD/Mecânicas do jogador.md",
+    "XP-6/GDD/Mecânicas do ambiente.md",
+    "XP-6/GDD/Narrativa.md",
+    "XP-6/High consept.md",
+    "XP-6/GDD/Level design.md",
+    "XP-6/GDD/Progressão..md",
+    "Desenvolvimento inicial/Mecânicacs/Cenário.md",
+    "Desenvolvimento inicial/Mecânicacs/Jogador.md",
+    "Imagens/Pasted image 20240813222709.png",
+    "XP-6/GDD/UI.md",
+    "Imagens/Pasted image 20240813212115.png",
+    "Imagens/Pasted image 20240801200620.png",
+    "Imagens/Pasted image 20240724215047.png",
+    "Imagens/CombatIdeas.png",
+    "Imagens/Pasted image 20240721202617.png",
+    "Imagens/Pasted image 20240625175754.png",
+    "Imagens/Pasted image 20240625174430.png",
+    "Imagens/Pasted image 20240626105104.png",
+    "Imagens/Pasted image 20240625173800.png",
+    "XP-6/GDD",
+    "Desenvolvimento inicial/Protótipo v0.4.md",
+    "XP-6",
+    "Desenvolvimento inicial/Protótipo v0.3.md",
+    "Desenvolvimento inicial/Protótipo v0.2.md",
+    "Desenvolvimento inicial/Protótipo v0.1.md",
+    "Desenvolvimento inicial",
+    "Desenvolvimento inicial/Protótipo v1.0.md",
+    "Desenvolvimento inicial/Protótipo v0.61.md",
+    "Desenvolvimento inicial/Protótipo v0.7.md",
+    "20240801-2314-31.0990227.mp4",
+    "Desenvolvimento inicial/Protótipo v0.6.md",
+    "Desenvolvimento inicial/Protótipo v0.5.md",
+    "GDD/Protótipo 0.62.md",
+    "Desenvolvimento inicial/Mecânicacs/Sanidade.md",
+    "Desenvolvimento inicial/Mecânicacs/Inventário..md",
+    "Desenvolvimento inicial/Mecânicacs/Loop.md",
+    "Desenvolvimento inicial/Mecânicacs/Investigação.md",
+    "GDD/Mecânicacs/Cifras e ..md",
+    "Desenvolvimento inicial/Mecânicacs",
+    "GDD/LDD/Parte 1",
+    "GDD/LDD",
+    "Programação",
+    "Sem título.canvas",
+    "Imagens/Sem título.canvas",
+    "Imagens/Sem título 1.canvas",
+    "Imagens",
+    "XP-6/GDD"
+  ]
+}
