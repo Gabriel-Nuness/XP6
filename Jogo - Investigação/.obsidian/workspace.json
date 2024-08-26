@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4d237400562d1e9",
+            "id": "3f8136f93acbb344",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XP-6/High consept.md",
+                "file": "XP-6/Planejamento de Projeto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XP-6/High consept.md",
+                "file": "XP-6/Planejamento de Projeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XP-6/High consept.md",
+                "file": "XP-6/Planejamento de Projeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XP-6/High consept.md"
+                "file": "XP-6/Planejamento de Projeto.md"
               }
             }
           }
@@ -146,20 +146,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "669f638270aaf1d0",
+  "active": "3f8136f93acbb344",
   "lastOpenFiles": [
-    "XP6",
-    "XP-6/GDD/GDD.md",
-    "XP-6/GDD/Mecânicas do jogador.md",
-    "XP-6/GDD/Mecânicas do ambiente.md",
-    "XP-6/GDD/Narrativa.md",
     "XP-6/High consept.md",
-    "XP-6/GDD/Level design.md",
+    "XP-6/GDD/Mecânicas do jogador.md",
+    "XP-6/GDD/UI.md",
     "XP-6/GDD/Progressão..md",
+    "XP-6/GDD/GDD.md",
+    "XP-6/GDD/Level design.md",
+    "XP-6/Planejamento de Projeto.md",
+    "XP-6/GDD/Mecânicas do ambiente.md",
+    "XP6",
+    "XP-6/GDD/Narrativa.md",
     "Desenvolvimento inicial/Mecânicacs/Cenário.md",
     "Desenvolvimento inicial/Mecânicacs/Jogador.md",
     "Imagens/Pasted image 20240813222709.png",
-    "XP-6/GDD/UI.md",
     "Imagens/Pasted image 20240813212115.png",
     "Imagens/Pasted image 20240801200620.png",
     "Imagens/Pasted image 20240724215047.png",
@@ -195,7 +196,6 @@
     "Sem título.canvas",
     "Imagens/Sem título.canvas",
     "Imagens/Sem título 1.canvas",
-    "Imagens",
-    "XP-6/GDD"
+    "Imagens"
   ]
 }
