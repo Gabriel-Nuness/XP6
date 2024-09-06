@@ -1,4 +1,23 @@
 
+
+### Trama
+* O dilema do shadow(ouroço).
+* Twist de tom.
+	* Engraçado e esquisito > Grotesco e bizarro.
+		* Câmera fixa > Alavanca que muda a posição da câmera.
+![[Pasted image 20240830205150.png]]
+* HUB central > Torre de administração do setor > Luz > Controle do setor > Módulo de voz > Luz de cores diferentes.
+* Investigação do HUB > Empresa estatal > Empresas privadas que controlavam a estatal.
+* História de:
+	* Alguém que acende ao poder e nada muda.
+	* Alguém que, achando que estava fazendo o certo, piorou aquela sociedade.
+	* ==Primeiro passo para a REVOLUÇÃO.==
+		* ==Reunir as pessoas do setor.==
+		* ==A independência do setor após ser deixado para morrer.==
+* **Espaços negativos na narrativa.**
+
+
+### Design de narrativa
 * Pistas.
 	* Uma pista é qualquer informação que pode ser extraída de um texto, diálogo, evento ou do ambiente.
 	* Gancho.

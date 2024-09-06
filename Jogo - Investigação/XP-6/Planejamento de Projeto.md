@@ -1,7 +1,6 @@
-Título do jogo;
+Biolópole
 
-
-Survival-horror-lite de "bairro aberto" com foco em investigação e narrativa, narrativa esta de horror existencial e tragicômica, na estética colorida e caótica de CGIs dos anos 90/00. 
+Survival-horror-lite de "bairro aberto" com foco em investigação e narrativa, narrativa esta de horror existencial e tragicômica, na estética colorida e caótica de CGIs dos anos 90/90. 
 
 
 Referências: Silent Hill (1-4), Outer Wilds, Blame!, John Dies at the End, hylic, art of computer animation (1988), hr giger, Zdzisław Beksiński.
@@ -96,32 +95,9 @@ TO-DO (Em ordem de maior para menor prioridade)
 
 Roadmap da pré-produção;
 
-Agosto - Entrega dos moodboards e do planejamento (dia 27 de agosto).
-* Entrega dos moodboards e roadmap
-	* Ambientação.
-	* Inimigos (moodboard geral dos inimigos).
-	* Protagonista.
-	* NPCs.
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcd4Lup96DSTB80oP4gq4-XBZrNlO6sN9mfiPauTvkE2nrFu_Wz9kcHmg9UKDyxoE9M5NNyPCXiNQKO96bUO5GT727Xhx3ycJ6GtPqR7L3GCsVImOXsnT5It-uZPLDSMJb7jGNx9KHbHd6nYDkWEYPhBfhE1U0t=s2048?key=KSbPQWdjNarKcgukcOPP4Q)
 
-Setembro.
-* Consept
-	* Ambientação.
-	* Inimigo.
-	* Protagonista.
-	* NPCs.
-	* UI.
-* GDD
-	* Mecânicas centrais.
-	* Progressão e flow.
-	* NPCs e inimigos.
 
-Outubro - Entrega do GDD e dos concept (dia 1 de outubro).
-* Art bible
-	* Art style.
-	* Do & don't.
-	* Adicionar concepts, moodboards e painel de referências já feitos (E terminar os que podem faltar).
-
-Novembro - Entrega do art bible e do MVP (dia 12 de novembro).
 
 Ferramentas de organização e gestão que serão utilizadas pela equipe:
 1. Obsidian

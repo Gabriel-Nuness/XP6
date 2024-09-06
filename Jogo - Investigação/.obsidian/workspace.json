@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XP-6/Planejamento de Projeto.md",
+                "file": "XP-6/GDD/Narrativa/Narrativa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45bcfb35693a616d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XP-6/GDD/Narrativa/World building.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XP-6/Planejamento de Projeto.md",
+                "file": "XP-6/GDD/Narrativa/World building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XP-6/Planejamento de Projeto.md",
+                "file": "XP-6/GDD/Narrativa/World building.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XP-6/Planejamento de Projeto.md"
+                "file": "XP-6/GDD/Narrativa/World building.md"
               }
             }
           }
@@ -146,18 +159,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3f8136f93acbb344",
+  "active": "45bcfb35693a616d",
   "lastOpenFiles": [
+    "XP-6/GDD/Narrativa/Narrativa.md",
+    "XP-6/GDD/Narrativa",
+    "XP-6/GDD/Narrativa/World building.md",
+    "Pasted image 20240830205150.png",
+    "XP-6/Planejamento de Projeto.md",
     "XP-6/High consept.md",
+    "XP-6/GDD/Level design.md",
+    "XP-6/GDD/Mecânicas do ambiente.md",
     "XP-6/GDD/Mecânicas do jogador.md",
+    "XP-6/GDD/GDD.md",
     "XP-6/GDD/UI.md",
     "XP-6/GDD/Progressão..md",
-    "XP-6/GDD/GDD.md",
-    "XP-6/GDD/Level design.md",
-    "XP-6/Planejamento de Projeto.md",
-    "XP-6/GDD/Mecânicas do ambiente.md",
     "XP6",
-    "XP-6/GDD/Narrativa.md",
     "Desenvolvimento inicial/Mecânicacs/Cenário.md",
     "Desenvolvimento inicial/Mecânicacs/Jogador.md",
     "Imagens/Pasted image 20240813222709.png",
@@ -169,7 +185,6 @@
     "Imagens/Pasted image 20240625175754.png",
     "Imagens/Pasted image 20240625174430.png",
     "Imagens/Pasted image 20240626105104.png",
-    "Imagens/Pasted image 20240625173800.png",
     "XP-6/GDD",
     "Desenvolvimento inicial/Protótipo v0.4.md",
     "XP-6",
@@ -180,22 +195,19 @@
     "Desenvolvimento inicial/Protótipo v1.0.md",
     "Desenvolvimento inicial/Protótipo v0.61.md",
     "Desenvolvimento inicial/Protótipo v0.7.md",
-    "20240801-2314-31.0990227.mp4",
+    "Imagens/20240801-2314-31.0990227.mp4",
     "Desenvolvimento inicial/Protótipo v0.6.md",
     "Desenvolvimento inicial/Protótipo v0.5.md",
     "GDD/Protótipo 0.62.md",
     "Desenvolvimento inicial/Mecânicacs/Sanidade.md",
     "Desenvolvimento inicial/Mecânicacs/Inventário..md",
     "Desenvolvimento inicial/Mecânicacs/Loop.md",
-    "Desenvolvimento inicial/Mecânicacs/Investigação.md",
-    "GDD/Mecânicacs/Cifras e ..md",
     "Desenvolvimento inicial/Mecânicacs",
     "GDD/LDD/Parte 1",
     "GDD/LDD",
     "Programação",
     "Sem título.canvas",
     "Imagens/Sem título.canvas",
-    "Imagens/Sem título 1.canvas",
-    "Imagens"
+    "Imagens/Sem título 1.canvas"
   ]
 }
