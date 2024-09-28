@@ -51,7 +51,7 @@ Oclusão de objetos entre a câmera e o jogador.
 * Lista de itens pegos.
 * Limite de X itens.
 
-### Lâmpada.
+### Iluminação.
 * 
 
 ### Investigação.
