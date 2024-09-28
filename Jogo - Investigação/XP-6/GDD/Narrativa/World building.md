@@ -5,7 +5,7 @@
 		* Ex:
 			* Pessoas são reduzidas a cérebros em um jarro para servir como um administrador (luz).
 * "A Maquina".
-	* O basilisco de roko.
+	* *O basilisco de roko.*
 	* Uma estrutura fechada que se torna praticamente impossível ver o lado de fora.
 	* Uma crítica ao capitalismo (maquina = lógica do sistema).
 	* A mente coletiva criada a partir das pessoas conectadas a ela e das pessoas que acenderam a ela.
@@ -33,6 +33,7 @@
 			* Área de moradia destruída.
 			* Área de "aposentadoria".
 			* Área em quarentena.
+			* Área de saneamento.
 		* Área industrial.
 			* Empresa de comida/farmácia.
 				* Laboratórios.
@@ -43,6 +44,7 @@
 				* Laboratórios.
 			* Empresa estatal.
 				* Fábrica.
+			* Área de saneamento.
 	* O setor em que o jogo se passa...
 		* Arte.
 		* Segurança.
@@ -94,7 +96,7 @@
 		* Aumento de atributos mentais.
 		* Aumento de atributos físicos.
 		* Substituição de membros periféricos.
-	* 2 - Perceptíveis.  +
+	* 2 - Perceptíveis. 
 		* Braços a mais.
 		* Músculos maiores.
 		* Tamanho.
@@ -160,7 +162,8 @@
 	* Mercador.
 	* Trabalhadores que não tinham para onde ir.
 	* Caçador de mutações descontrolada.
-
+	
+![[Pasted image 20240908221747.png]]
 
 ### Regras do mundo.
 

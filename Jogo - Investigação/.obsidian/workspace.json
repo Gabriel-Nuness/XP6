@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1c91a8eb2966d49",
+        "id": "dc8747d375ee405b",
         "type": "tabs",
         "children": [
           {
-            "id": "3f8136f93acbb344",
+            "id": "62cb8eba567774cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "45bcfb35693a616d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XP-6/GDD/Narrativa/World building.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XP-6/GDD/Narrativa/World building.md",
+                "file": "XP-6/GDD/Narrativa/Narrativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XP-6/GDD/Narrativa/World building.md",
+                "file": "XP-6/GDD/Narrativa/Narrativa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XP-6/GDD/Narrativa/World building.md"
+                "file": "XP-6/GDD/Narrativa/Narrativa.md"
               }
             }
           }
@@ -159,49 +146,49 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "45bcfb35693a616d",
+  "active": "62cb8eba567774cf",
   "lastOpenFiles": [
-    "XP-6/GDD/Narrativa/Narrativa.md",
-    "XP-6/GDD/Narrativa",
+    "XP-6/GDD/Mecânicas do jogador.md",
+    "XP-6/GDD/Level design.md",
+    "XP-6/GDD/Ambiente.md",
+    "XP-6/GDD/GDD.md",
+    "XP-6/GDD/Mecânicas do ambiente.md",
+    "Pasted image 20240925130752.png",
+    "XP-6/GDD/Progressão..md",
     "XP-6/GDD/Narrativa/World building.md",
-    "Pasted image 20240830205150.png",
+    "XP-6/GDD/UI.md",
+    "XP-6/GDD/Narrativa/Narrativa.md",
+    "Imagens/Pasted image 20240908221747.png",
+    "Imagens/Pasted image 20240908221621.png",
+    "Imagens/Pasted image 20240910181557.png",
+    "Imagens/20240801-2314-31.0990227.mp4",
+    "Pasted image 20240910183550.png",
+    "Pasted image 20240910183422.png",
+    "Pasted image 20240910182829.png",
+    "Pasted image 20240910181705.png",
+    "Imagens/CombatIdeas.png",
+    "Desenvolvimento inicial/Protótipo v0.7.md",
+    "Desenvolvimento inicial/Protótipo v0.61.md",
+    "Desenvolvimento inicial/Protótipo v0.4.md",
+    "Desenvolvimento inicial/Protótipo v0.6.md",
+    "Desenvolvimento inicial/Protótipo v1.0.md",
+    "XP-6/GDD/Narrativa",
+    "Imagens/Pasted image 20240830205150.png",
     "XP-6/Planejamento de Projeto.md",
     "XP-6/High consept.md",
-    "XP-6/GDD/Level design.md",
-    "XP-6/GDD/Mecânicas do ambiente.md",
-    "XP-6/GDD/Mecânicas do jogador.md",
-    "XP-6/GDD/GDD.md",
-    "XP-6/GDD/UI.md",
-    "XP-6/GDD/Progressão..md",
     "XP6",
     "Desenvolvimento inicial/Mecânicacs/Cenário.md",
     "Desenvolvimento inicial/Mecânicacs/Jogador.md",
-    "Imagens/Pasted image 20240813222709.png",
-    "Imagens/Pasted image 20240813212115.png",
-    "Imagens/Pasted image 20240801200620.png",
-    "Imagens/Pasted image 20240724215047.png",
-    "Imagens/CombatIdeas.png",
-    "Imagens/Pasted image 20240721202617.png",
-    "Imagens/Pasted image 20240625175754.png",
-    "Imagens/Pasted image 20240625174430.png",
-    "Imagens/Pasted image 20240626105104.png",
     "XP-6/GDD",
-    "Desenvolvimento inicial/Protótipo v0.4.md",
     "XP-6",
     "Desenvolvimento inicial/Protótipo v0.3.md",
     "Desenvolvimento inicial/Protótipo v0.2.md",
     "Desenvolvimento inicial/Protótipo v0.1.md",
     "Desenvolvimento inicial",
-    "Desenvolvimento inicial/Protótipo v1.0.md",
-    "Desenvolvimento inicial/Protótipo v0.61.md",
-    "Desenvolvimento inicial/Protótipo v0.7.md",
-    "Imagens/20240801-2314-31.0990227.mp4",
-    "Desenvolvimento inicial/Protótipo v0.6.md",
     "Desenvolvimento inicial/Protótipo v0.5.md",
     "GDD/Protótipo 0.62.md",
     "Desenvolvimento inicial/Mecânicacs/Sanidade.md",
     "Desenvolvimento inicial/Mecânicacs/Inventário..md",
-    "Desenvolvimento inicial/Mecânicacs/Loop.md",
     "Desenvolvimento inicial/Mecânicacs",
     "GDD/LDD/Parte 1",
     "GDD/LDD",

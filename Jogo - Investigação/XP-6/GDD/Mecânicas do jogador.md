@@ -14,6 +14,7 @@
 * Colocar senha.
 * Abrir/fechar caderno de anotações.
 * Zoom in/out no caderno de anotações.
+* Conversar.
 
 ### Câmera.
 * Isométrica.

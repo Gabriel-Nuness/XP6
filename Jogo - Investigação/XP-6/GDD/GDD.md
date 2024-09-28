@@ -1,6 +1,6 @@
 [[Mecânicas do jogador]]
 
-[[Mecânicas do ambiente]]
+[[Ambiente]]
 
 [[UI]]
 

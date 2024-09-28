@@ -1,5 +1,4 @@
 
-
 ### Trama
 * O dilema do shadow(ouroço).
 * Twist de tom.
