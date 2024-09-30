@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XP-6/GDD/Level design.md",
+                "file": "XP-6/GDD/Mecânicas do jogador.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XP-6/GDD/Level design.md",
+                "file": "XP-6/GDD/Mecânicas do jogador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XP-6/GDD/Level design.md",
+                "file": "XP-6/GDD/Mecânicas do jogador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XP-6/GDD/Level design.md"
+                "file": "XP-6/GDD/Mecânicas do jogador.md"
               }
             }
           }
@@ -148,24 +148,24 @@
   },
   "active": "8f06167b967c2d9b",
   "lastOpenFiles": [
-    "XP-6/GDD/Narrativa/World building.md",
-    "XP-6/GDD/Narrativa/Narrativa.md",
     "XP-6/GDD/GDD.md",
     "XP-6/GDD/Level design.md",
     "XP-6/GDD/Mecânicas do jogador.md",
-    "Pasted image 20240930105630.png",
-    "XP-6/GDD/UI.md",
     "XP-6/GDD/Mecânicas do ambiente.md",
-    "XP-6/GDD/Ambiente.md",
-    "XP-6/Planejamento de Projeto.md",
     "XP-6/High consept.md",
-    "XP-6/GDD/Progressão..md",
-    "Pasted image 20240930102603.png",
-    "Pasted image 20240930102525.png",
-    "20240930-1324-31.3244062.mp4",
-    "Pasted image 20240930102141.png",
-    "Imagens/Pasted image 20240927220435.png",
+    "XP-6/Planejamento de Projeto.md",
     "Imagens/Pasted image 20240925130752.png",
+    "Imagens/Pasted image 20240927220435.png",
+    "Pasted image 20240930105630.png",
+    "Pasted image 20240930102141.png",
+    "Pasted image 20240930102603.png",
+    "20240930-1324-31.3244062.mp4",
+    "XP-6/GDD/Narrativa/World building.md",
+    "XP-6/GDD/Narrativa/Narrativa.md",
+    "XP-6/GDD/UI.md",
+    "XP-6/GDD/Ambiente.md",
+    "XP-6/GDD/Progressão..md",
+    "Pasted image 20240930102525.png",
     "Imagens/Pasted image 20240908221747.png",
     "Imagens/Pasted image 20240908221621.png",
     "Imagens/Pasted image 20240910181557.png",
