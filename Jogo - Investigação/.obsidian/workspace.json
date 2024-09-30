@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "dc8747d375ee405b",
-        "type": "tabs",
-        "dimension": 52.09656925031766,
-        "children": [
-          {
-            "id": "62cb8eba567774cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XP-6/GDD/Mecânicas do ambiente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c5e5a98d4279a2b8",
         "type": "tabs",
-        "dimension": 47.903430749682336,
         "children": [
           {
             "id": "8f06167b967c2d9b",
@@ -33,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XP-6/GDD/Mecânicas do jogador.md",
+                "file": "XP-6/GDD/Level design.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XP-6/GDD/Mecânicas do ambiente.md",
+                "file": "XP-6/GDD/Level design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XP-6/GDD/Mecânicas do ambiente.md",
+                "file": "XP-6/GDD/Level design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XP-6/GDD/Mecânicas do ambiente.md"
+                "file": "XP-6/GDD/Level design.md"
               }
             }
           }
@@ -166,36 +146,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "669f638270aaf1d0",
+  "active": "8f06167b967c2d9b",
   "lastOpenFiles": [
-    "XP-6/GDD/Mecânicas do jogador.md",
-    "XP-6/GDD/Mecânicas do ambiente.md",
-    "Imagens/Pasted image 20240927220435.png",
-    "XP-6/GDD/Narrativa/Narrativa.md",
-    "XP-6/GDD/Level design.md",
-    "XP-6/GDD/Ambiente.md",
-    "XP-6/GDD/GDD.md",
-    "Imagens/Pasted image 20240925130752.png",
-    "XP-6/GDD/Progressão..md",
     "XP-6/GDD/Narrativa/World building.md",
+    "XP-6/GDD/Narrativa/Narrativa.md",
+    "XP-6/GDD/GDD.md",
+    "XP-6/GDD/Level design.md",
+    "XP-6/GDD/Mecânicas do jogador.md",
+    "Pasted image 20240930105630.png",
     "XP-6/GDD/UI.md",
+    "XP-6/GDD/Mecânicas do ambiente.md",
+    "XP-6/GDD/Ambiente.md",
+    "XP-6/Planejamento de Projeto.md",
+    "XP-6/High consept.md",
+    "XP-6/GDD/Progressão..md",
+    "Pasted image 20240930102603.png",
+    "Pasted image 20240930102525.png",
+    "20240930-1324-31.3244062.mp4",
+    "Pasted image 20240930102141.png",
+    "Imagens/Pasted image 20240927220435.png",
+    "Imagens/Pasted image 20240925130752.png",
     "Imagens/Pasted image 20240908221747.png",
     "Imagens/Pasted image 20240908221621.png",
     "Imagens/Pasted image 20240910181557.png",
     "Imagens/20240801-2314-31.0990227.mp4",
     "Imagens/Pasted image 20240910183550.png",
-    "Pasted image 20240910183422.png",
-    "Imagens/Pasted image 20240910182829.png",
-    "Imagens/Pasted image 20240910181705.png",
-    "Imagens/CombatIdeas.png",
     "Desenvolvimento inicial/Protótipo v0.7.md",
     "Desenvolvimento inicial/Protótipo v0.61.md",
     "Desenvolvimento inicial/Protótipo v0.4.md",
     "Desenvolvimento inicial/Protótipo v0.6.md",
     "Desenvolvimento inicial/Protótipo v1.0.md",
     "XP-6/GDD/Narrativa",
-    "XP-6/Planejamento de Projeto.md",
-    "XP-6/High consept.md",
     "XP6",
     "Desenvolvimento inicial/Mecânicacs/Cenário.md",
     "Desenvolvimento inicial/Mecânicacs/Jogador.md",
@@ -212,7 +193,6 @@
     "Desenvolvimento inicial/Mecânicacs",
     "GDD/LDD/Parte 1",
     "GDD/LDD",
-    "Programação",
     "Sem título.canvas",
     "Imagens/Sem título.canvas",
     "Imagens/Sem título 1.canvas"
