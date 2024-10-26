@@ -23,7 +23,7 @@ public class Player : MonoBehaviour
         Vector3 direction = new Vector3(Input.GetAxisRaw("Vertical"), 0, -Input.GetAxisRaw("Horizontal"));
         if (Physics.Raycast(transform.position - new Vector3(0, GetComponent<MeshFilter>().sharedMesh.bounds.extents.y, 0), -transform.up, 2f))
         {
-            controller.SimpleMove(direction * velocity);
+            controller.SimpleMove(direction.normalized * velocity);
         }
 
         if (transform.childCount > 0)

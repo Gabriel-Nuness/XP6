@@ -40,7 +40,7 @@ Cada área do jogo terá um inimigo central que será o principal obstáculo do 
 #### Boss #2
 * O que ele faz?
 	* Anda por uma área...
-	* Manda o jogador para algum outro local (pode ajudar na investigação?).
+	* Manda o jogador para algum outro local (pode ajudar na investigação?)
 * Como derrotar?
 	* Prende em um local e liga luzes fortes.
 
@@ -52,4 +52,4 @@ Cada área do jogo terá um inimigo central que será o principal obstáculo do 
 * O que ele faz?
 	* Um bicho quadrupede que territorialista que...
 * Como derrotar?
-	* Prende dentro de uma jaula.
+	* Prender dentro de uma jaula.

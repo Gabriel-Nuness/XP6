@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XP-6/GDD/Mecânicas do jogador.md",
+                "file": "XP-6/GDD/Mecânicas do ambiente.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XP-6/GDD/Mecânicas do jogador.md",
+                "file": "XP-6/GDD/Mecânicas do ambiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XP-6/GDD/Mecânicas do jogador.md",
+                "file": "XP-6/GDD/Mecânicas do ambiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XP-6/GDD/Mecânicas do jogador.md"
+                "file": "XP-6/GDD/Mecânicas do ambiente.md"
               }
             }
           }
@@ -148,29 +148,29 @@
   },
   "active": "8f06167b967c2d9b",
   "lastOpenFiles": [
-    "XP-6/GDD/GDD.md",
-    "XP-6/GDD/Level design.md",
     "XP-6/GDD/Mecânicas do jogador.md",
     "XP-6/GDD/Mecânicas do ambiente.md",
     "XP-6/High consept.md",
     "XP-6/Planejamento de Projeto.md",
+    "Pasted image 20240930102603.png",
+    "20240930-1324-31.3244062.mp4",
+    "Pasted image 20240930102141.png",
+    "Imagens/Pasted image 20240908221747 1.png",
+    "Imagens/Pasted image 20240908221747.png",
+    "XP-6/GDD/Narrativa/World building.md",
+    "XP-6/GDD/Narrativa/Narrativa.md",
+    "XP-6/GDD/Level design.md",
+    "XP-6/GDD/GDD.md",
+    "Imagens/Pasted image 20240813212115.png",
+    "Imagens/20240801-2314-31.0990227.mp4",
     "Imagens/Pasted image 20240925130752.png",
     "Imagens/Pasted image 20240927220435.png",
     "Pasted image 20240930105630.png",
-    "Pasted image 20240930102141.png",
-    "Pasted image 20240930102603.png",
-    "20240930-1324-31.3244062.mp4",
-    "XP-6/GDD/Narrativa/World building.md",
-    "XP-6/GDD/Narrativa/Narrativa.md",
     "XP-6/GDD/UI.md",
     "XP-6/GDD/Ambiente.md",
     "XP-6/GDD/Progressão..md",
     "Pasted image 20240930102525.png",
-    "Imagens/Pasted image 20240908221747.png",
     "Imagens/Pasted image 20240908221621.png",
-    "Imagens/Pasted image 20240910181557.png",
-    "Imagens/20240801-2314-31.0990227.mp4",
-    "Imagens/Pasted image 20240910183550.png",
     "Desenvolvimento inicial/Protótipo v0.7.md",
     "Desenvolvimento inicial/Protótipo v0.61.md",
     "Desenvolvimento inicial/Protótipo v0.4.md",
